@@ -92,3 +92,15 @@ body {
     width: 60%;
     border-radius: 10px;
 }
+
+.contact {
+    text-align: center;
+    padding: 40px;
+}
+
+.contact input,
+.contact textarea {
+    width: 60%;
+    padding: 10px;
+    margin: 10px;
+}
