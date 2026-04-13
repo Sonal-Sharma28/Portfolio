@@ -61,3 +61,20 @@ body {
     width: 200px;
     border-radius: 10px;
 }
+
+.skills {
+    text-align: center;
+}
+
+.skill-box {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.skill-box div {
+    padding: 10px 20px;
+    background-color: #eee;
+    border-radius: 5px;
+}
