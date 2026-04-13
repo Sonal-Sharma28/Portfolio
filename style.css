@@ -24,3 +24,27 @@ body {
 .nav-links a:hover {
     color: #ff6b81;
 }
+
+.hero {
+    text-align: center;
+    padding: 100px 20px;
+    background-color: #f5f5f5;
+}
+
+.hero h1 {
+    font-size: 40px;
+}
+
+.hero p {
+    font-size: 18px;
+    color: gray;
+}
+
+.btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #ff6b81;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
